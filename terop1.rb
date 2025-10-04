@@ -1,0 +1,1 @@
+friends_are_also_coming? ? go_pathy : stay_home
